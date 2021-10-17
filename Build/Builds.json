@@ -1,7 +1,7 @@
 {
 "companyName": "L1nx99",
-"productName": "Dig your way out",
-"productVersion": "0.1",
+"productName": "DigYourWayOut",
+"productVersion": "0.901",
 "dataUrl": "Builds.data.unityweb",
 "wasmCodeUrl": "Builds.wasm.code.unityweb",
 "wasmFrameworkUrl": "Builds.wasm.framework.unityweb",
